@@ -12,21 +12,21 @@ while True:
     if button_a.was_pressed():
        np[0]=Green
        np.show()
-       sleep(5000)
+       sleep(7000)
        np.clear()
-       sleep(2000)
+       sleep(1000)
     
        np[1]=Yellow
        np.show()
-       sleep(5000)
+       sleep(7000)
        np.clear()
-       sleep(2000)
+       sleep(1000)
 
        np[2]=Red
        np.show()
-       sleep(5000)
+       sleep(7000)
        np.clear()
-       sleep(2000)
+       sleep(1000)
        
       
         
