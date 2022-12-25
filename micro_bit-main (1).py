@@ -18,7 +18,7 @@ while True:
     
        np[1]=Yellow
        np.show()
-       sleep(7000)
+       sleep(4000)
        np.clear()
        sleep(1000)
 
